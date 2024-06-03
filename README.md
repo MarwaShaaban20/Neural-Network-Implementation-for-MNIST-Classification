@@ -58,23 +58,7 @@ This project implements a simple neural network from scratch to classify handwri
     - Tests different neural network architectures with varying layers and neurons.
     - Prints accuracy for each architecture.
 
-### Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-   ```
-
-2. **Install necessary packages:**
-   ```bash
-   pip install numpy keras
-   ```
-
-3. **Run the script:**
-   ```bash
-   python <script_name>.py
-   ```
 
 ### Example Architectures
 
