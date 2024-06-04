@@ -77,4 +77,4 @@ The script will output the accuracy and loss for each architecture on the test s
 
 ---
 
-This description should provide a clear overview of your project for potential users and contributors on GitHub.
+
